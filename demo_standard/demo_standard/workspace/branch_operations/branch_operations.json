@@ -1,0 +1,196 @@
+{
+ "charts": [
+  {
+   "chart_name": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0639\u0645\u0644\u0627\u0621",
+   "label": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0639\u0645\u0644\u0627\u0621"
+  }
+ ],
+ "content": "[{\"id\": \"\u0639\u0645\u0644\u064a\u0627\u062a-\u0627\u0644\u0641\u0631\u0639-header\", \"type\": \"header\", \"data\": {\"text\": \"<span class=\\\"h4\\\"><b>\u0639\u0645\u0644\u064a\u0627\u062a \u0627\u0644\u0641\u0631\u0639</b></span><br><span class=\\\"small text-muted\\\">\u062a\u0634\u063a\u064a\u0644 \u0627\u0644\u0641\u0631\u0639 \u064a\u0648\u0645\u064a\u0627\u064b \u0628\u064a\u0646 \u0627\u0644\u0645\u0628\u064a\u0639\u0627\u062a \u0648\u0627\u0644\u062a\u062d\u0635\u064a\u0644 \u0648\u0627\u0644\u0645\u062a\u0627\u0628\u0639\u0629 \u0627\u0644\u0645\u064a\u062f\u0627\u0646\u064a\u0629</span>\", \"col\": 12}}, {\"id\": \"\u0639\u0645\u0644\u064a\u0627\u062a-\u0627\u0644\u0641\u0631\u0639-chart-1\", \"type\": \"chart\", \"data\": {\"chart_name\": \"\u0623\u0641\u0636\u0644 \u0627\u0644\u0639\u0645\u0644\u0627\u0621\", \"col\": 12}}, {\"id\": \"\u0639\u0645\u0644\u064a\u0627\u062a-\u0627\u0644\u0641\u0631\u0639-metric-1\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"\u0635\u0627\u0641\u064a \u0627\u0644\u0645\u0628\u064a\u0639\u0627\u062a\", \"col\": 3}}, {\"id\": \"\u0639\u0645\u0644\u064a\u0627\u062a-\u0627\u0644\u0641\u0631\u0639-metric-2\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"\u0625\u062c\u0645\u0627\u0644\u064a \u0627\u0644\u0645\u0642\u0628\u0648\u0636\u0627\u062a\", \"col\": 3}}, {\"id\": \"\u0639\u0645\u0644\u064a\u0627\u062a-\u0627\u0644\u0641\u0631\u0639-metric-3\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"\u0627\u0644\u0639\u0645\u0644\u0627\u0621 \u0627\u0644\u0646\u0634\u0637\u0648\u0646\", \"col\": 3}}, {\"id\": \"\u0639\u0645\u0644\u064a\u0627\u062a-\u0627\u0644\u0641\u0631\u0639-metric-4\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"\u0627\u0644\u0623\u0635\u0646\u0627\u0641 \u0627\u0644\u0646\u0634\u0637\u0629\", \"col\": 3}}, {\"id\": \"\u0639\u0645\u0644\u064a\u0627\u062a-\u0627\u0644\u0641\u0631\u0639-insight-spacer\", \"type\": \"spacer\", \"data\": {\"col\": 12}}, {\"id\": \"\u0639\u0645\u0644\u064a\u0627\u062a-\u0627\u0644\u0641\u0631\u0639-shortcut-1\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"POS Invoice\", \"col\": 2}}, {\"id\": \"\u0639\u0645\u0644\u064a\u0627\u062a-\u0627\u0644\u0641\u0631\u0639-shortcut-2\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Sales Invoice\", \"col\": 2}}, {\"id\": \"\u0639\u0645\u0644\u064a\u0627\u062a-\u0627\u0644\u0641\u0631\u0639-shortcut-3\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Payment Entry\", \"col\": 2}}, {\"id\": \"\u0639\u0645\u0644\u064a\u0627\u062a-\u0627\u0644\u0641\u0631\u0639-shortcut-4\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Customer\", \"col\": 2}}, {\"id\": \"\u0639\u0645\u0644\u064a\u0627\u062a-\u0627\u0644\u0641\u0631\u0639-shortcut-5\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Item\", \"col\": 2}}, {\"id\": \"\u0639\u0645\u0644\u064a\u0627\u062a-\u0627\u0644\u0641\u0631\u0639-shortcut-6\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Stock Entry\", \"col\": 2}}, {\"id\": \"\u0639\u0645\u0644\u064a\u0627\u062a-\u0627\u0644\u0641\u0631\u0639-spacer\", \"type\": \"spacer\", \"data\": {\"col\": 12}}, {\"id\": \"\u0639\u0645\u0644\u064a\u0627\u062a-\u0627\u0644\u0641\u0631\u0639-card-1\", \"type\": \"card\", \"data\": {\"card_name\": \"Daily Retail\", \"col\": 4}}, {\"id\": \"\u0639\u0645\u0644\u064a\u0627\u062a-\u0627\u0644\u0641\u0631\u0639-card-2\", \"type\": \"card\", \"data\": {\"card_name\": \"Branch Control\", \"col\": 4}}]",
+ "creation": "2026-03-17 16:57:40.371837",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "hide_custom": 1,
+ "icon": "retail",
+ "idx": 0,
+ "indicator_color": "orange",
+ "is_hidden": 0,
+ "label": "Branch Operations",
+ "links": [
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Daily Retail",
+   "link_count": 0,
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "POS Profile",
+   "link_count": 0,
+   "link_to": "POS Profile",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 1,
+   "label": "Sales Analytics",
+   "link_count": 0,
+   "link_to": "Sales Analytics",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 1,
+   "label": "Customer Credit Balance",
+   "link_count": 0,
+   "link_to": "Customer Credit Balance",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Item Price",
+   "link_count": 0,
+   "link_to": "Item Price",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Branch Control",
+   "link_count": 0,
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Warehouse",
+   "link_count": 0,
+   "link_to": "Warehouse",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 1,
+   "label": "Stock Balance",
+   "link_count": 0,
+   "link_to": "Stock Balance",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Branch",
+   "link_count": 0,
+   "link_to": "Branch",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Sales Invoice",
+   "link_count": 0,
+   "link_to": "Sales Invoice",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  }
+ ],
+ "modified": "2026-05-25 09:35:48.234201",
+ "modified_by": "Administrator",
+ "module": "Demo Standard",
+ "name": "Branch Operations",
+ "number_cards": [
+  {
+   "label": "\u0635\u0627\u0641\u064a \u0627\u0644\u0645\u0628\u064a\u0639\u0627\u062a",
+   "number_card_name": "\u0635\u0627\u0641\u064a \u0627\u0644\u0645\u0628\u064a\u0639\u0627\u062a"
+  },
+  {
+   "label": "\u0625\u062c\u0645\u0627\u0644\u064a \u0627\u0644\u0645\u0642\u0628\u0648\u0636\u0627\u062a",
+   "number_card_name": "\u0625\u062c\u0645\u0627\u0644\u064a \u0627\u0644\u0645\u0642\u0628\u0648\u0636\u0627\u062a"
+  },
+  {
+   "label": "\u0627\u0644\u0639\u0645\u0644\u0627\u0621 \u0627\u0644\u0646\u0634\u0637\u0648\u0646",
+   "number_card_name": "\u0627\u0644\u0639\u0645\u0644\u0627\u0621 \u0627\u0644\u0646\u0634\u0637\u0648\u0646"
+  },
+  {
+   "label": "\u0627\u0644\u0623\u0635\u0646\u0627\u0641 \u0627\u0644\u0646\u0634\u0637\u0629",
+   "number_card_name": "\u0627\u0644\u0623\u0635\u0646\u0627\u0641 \u0627\u0644\u0646\u0634\u0637\u0629"
+  }
+ ],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [
+  {
+   "role": "Sales Manager"
+  },
+  {
+   "role": "Stock User"
+  },
+  {
+   "role": "Accounts User"
+  }
+ ],
+ "sequence_id": 8.0,
+ "shortcuts": [
+  {
+   "doc_view": "",
+   "label": "POS Invoice",
+   "link_to": "POS Invoice",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Sales Invoice",
+   "link_to": "Sales Invoice",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Payment Entry",
+   "link_to": "Payment Entry",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Customer",
+   "link_to": "Customer",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Item",
+   "link_to": "Item",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Stock Entry",
+   "link_to": "Stock Entry",
+   "type": "DocType"
+  }
+ ],
+ "title": "Branch Operations"
+}

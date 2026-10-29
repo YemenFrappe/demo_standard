@@ -1,0 +1,187 @@
+{
+ "charts": [
+  {
+   "chart_name": "\u062a\u0648\u0632\u064a\u0639 \u0627\u0644\u0641\u0631\u064a\u0642 \u0639\u0644\u0649 \u0627\u0644\u0641\u0631\u0648\u0639",
+   "label": "\u062a\u0648\u0632\u064a\u0639 \u0627\u0644\u0641\u0631\u064a\u0642 \u0639\u0644\u0649 \u0627\u0644\u0641\u0631\u0648\u0639"
+  }
+ ],
+ "content": "[{\"id\": \"\u0627\u0644\u0645\u0648\u0627\u0631\u062f-\u0627\u0644\u0628\u0634\u0631\u064a\u0629-\u0648\u0627\u0644\u0631\u0648\u0627\u062a\u0628-header\", \"type\": \"header\", \"data\": {\"text\": \"<span class=\\\"h4\\\"><b>\u0627\u0644\u0645\u0648\u0627\u0631\u062f \u0627\u0644\u0628\u0634\u0631\u064a\u0629 \u0648\u0627\u0644\u0631\u0648\u0627\u062a\u0628</b></span><br><span class=\\\"small text-muted\\\">\u0628\u064a\u0627\u0646\u0627\u062a \u0627\u0644\u0645\u0648\u0638\u0641\u064a\u0646 \u0648\u0627\u0644\u0631\u0648\u0627\u062a\u0628 \u0641\u064a \u0645\u0633\u0627\u062d\u0629 \u0648\u0627\u062d\u062f\u0629 \u0645\u0646\u0627\u0633\u0628\u0629 \u0644\u0644\u0639\u0631\u0636 \u0627\u0644\u0633\u0631\u064a\u0639</span>\", \"col\": 12}}, {\"id\": \"\u0627\u0644\u0645\u0648\u0627\u0631\u062f-\u0627\u0644\u0628\u0634\u0631\u064a\u0629-\u0648\u0627\u0644\u0631\u0648\u0627\u062a\u0628-chart-1\", \"type\": \"chart\", \"data\": {\"chart_name\": \"\u062a\u0648\u0632\u064a\u0639 \u0627\u0644\u0641\u0631\u064a\u0642 \u0639\u0644\u0649 \u0627\u0644\u0641\u0631\u0648\u0639\", \"col\": 12}}, {\"id\": \"\u0627\u0644\u0645\u0648\u0627\u0631\u062f-\u0627\u0644\u0628\u0634\u0631\u064a\u0629-\u0648\u0627\u0644\u0631\u0648\u0627\u062a\u0628-metric-1\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"\u0639\u062f\u062f \u0627\u0644\u0645\u0648\u0638\u0641\u064a\u0646\", \"col\": 6}}, {\"id\": \"\u0627\u0644\u0645\u0648\u0627\u0631\u062f-\u0627\u0644\u0628\u0634\u0631\u064a\u0629-\u0648\u0627\u0644\u0631\u0648\u0627\u062a\u0628-insight-spacer\", \"type\": \"spacer\", \"data\": {\"col\": 12}}, {\"id\": \"\u0627\u0644\u0645\u0648\u0627\u0631\u062f-\u0627\u0644\u0628\u0634\u0631\u064a\u0629-\u0648\u0627\u0644\u0631\u0648\u0627\u062a\u0628-shortcut-1\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Employee\", \"col\": 2}}, {\"id\": \"\u0627\u0644\u0645\u0648\u0627\u0631\u062f-\u0627\u0644\u0628\u0634\u0631\u064a\u0629-\u0648\u0627\u0644\u0631\u0648\u0627\u062a\u0628-shortcut-2\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Salary Slip\", \"col\": 2}}, {\"id\": \"\u0627\u0644\u0645\u0648\u0627\u0631\u062f-\u0627\u0644\u0628\u0634\u0631\u064a\u0629-\u0648\u0627\u0644\u0631\u0648\u0627\u062a\u0628-shortcut-3\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Department\", \"col\": 2}}, {\"id\": \"\u0627\u0644\u0645\u0648\u0627\u0631\u062f-\u0627\u0644\u0628\u0634\u0631\u064a\u0629-\u0648\u0627\u0644\u0631\u0648\u0627\u062a\u0628-shortcut-4\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Designation\", \"col\": 2}}, {\"id\": \"\u0627\u0644\u0645\u0648\u0627\u0631\u062f-\u0627\u0644\u0628\u0634\u0631\u064a\u0629-\u0648\u0627\u0644\u0631\u0648\u0627\u062a\u0628-shortcut-5\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Leave Application\", \"col\": 2}}, {\"id\": \"\u0627\u0644\u0645\u0648\u0627\u0631\u062f-\u0627\u0644\u0628\u0634\u0631\u064a\u0629-\u0648\u0627\u0644\u0631\u0648\u0627\u062a\u0628-shortcut-6\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Attendance\", \"col\": 2}}, {\"id\": \"\u0627\u0644\u0645\u0648\u0627\u0631\u062f-\u0627\u0644\u0628\u0634\u0631\u064a\u0629-\u0648\u0627\u0644\u0631\u0648\u0627\u062a\u0628-shortcut-7\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"HR Settings\", \"col\": 2}}, {\"id\": \"\u0627\u0644\u0645\u0648\u0627\u0631\u062f-\u0627\u0644\u0628\u0634\u0631\u064a\u0629-\u0648\u0627\u0644\u0631\u0648\u0627\u062a\u0628-spacer\", \"type\": \"spacer\", \"data\": {\"col\": 12}}, {\"id\": \"\u0627\u0644\u0645\u0648\u0627\u0631\u062f-\u0627\u0644\u0628\u0634\u0631\u064a\u0629-\u0648\u0627\u0644\u0631\u0648\u0627\u062a\u0628-card-1\", \"type\": \"card\", \"data\": {\"card_name\": \"HR Operations\", \"col\": 4}}, {\"id\": \"\u0627\u0644\u0645\u0648\u0627\u0631\u062f-\u0627\u0644\u0628\u0634\u0631\u064a\u0629-\u0648\u0627\u0644\u0631\u0648\u0627\u062a\u0628-card-2\", \"type\": \"card\", \"data\": {\"card_name\": \"Payroll Control\", \"col\": 4}}]",
+ "creation": "2026-03-17 16:57:40.442789",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "hide_custom": 0,
+ "icon": "users",
+ "idx": 0,
+ "indicator_color": "green",
+ "is_hidden": 1,
+ "label": "People & Payroll",
+ "links": [
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "HR Operations",
+   "link_count": 0,
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Employee",
+   "link_count": 0,
+   "link_to": "Employee",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Department",
+   "link_count": 0,
+   "link_to": "Department",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Designation",
+   "link_count": 0,
+   "link_to": "Designation",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Leave Application",
+   "link_count": 0,
+   "link_to": "Leave Application",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Payroll Control",
+   "link_count": 0,
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Salary Slip",
+   "link_count": 0,
+   "link_to": "Salary Slip",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Payroll Entry",
+   "link_count": 0,
+   "link_to": "Payroll Entry",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Employee Advance",
+   "link_count": 0,
+   "link_to": "Employee Advance",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Attendance",
+   "link_count": 0,
+   "link_to": "Attendance",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  }
+ ],
+ "modified": "2026-05-04 10:16:40.232009",
+ "modified_by": "Administrator",
+ "module": "Demo Standard",
+ "name": "People & Payroll",
+ "number_cards": [
+  {
+   "label": "\u0639\u062f\u062f \u0627\u0644\u0645\u0648\u0638\u0641\u064a\u0646",
+   "number_card_name": "\u0639\u062f\u062f \u0627\u0644\u0645\u0648\u0638\u0641\u064a\u0646"
+  }
+ ],
+ "owner": "Administrator",
+ "parent_page": "HR Management",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [
+  {
+   "role": "HR User"
+  },
+  {
+   "role": "HR Manager"
+  }
+ ],
+ "sequence_id": 32.0,
+ "shortcuts": [
+  {
+   "doc_view": "",
+   "label": "Employee",
+   "link_to": "Employee",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Salary Slip",
+   "link_to": "Salary Slip",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Department",
+   "link_to": "Department",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Designation",
+   "link_to": "Designation",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Leave Application",
+   "link_to": "Leave Application",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Attendance",
+   "link_to": "Attendance",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "HR Settings",
+   "link_to": "HR Settings",
+   "type": "DocType"
+  }
+ ],
+ "title": "People & Payroll"
+}

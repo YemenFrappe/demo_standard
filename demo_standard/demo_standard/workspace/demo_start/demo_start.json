@@ -1,0 +1,44 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"demo_presentation_deck\",\"type\":\"custom_block\",\"data\":{\"custom_block_name\":\"Demo Presentation Deck\",\"col\":12}}]",
+ "creation": "2026-04-29 14:30:41.047213",
+ "custom_blocks": [
+  {
+   "custom_block_name": "Demo Presentation Deck",
+   "label": "Demo Presentation Deck"
+  }
+ ],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "tool",
+ "idx": 0,
+ "indicator_color": "orange",
+ "is_hidden": 1,
+ "label": "Demo Start",
+ "links": [],
+ "modified": "2026-05-25 09:35:48.064887",
+ "modified_by": "Administrator",
+ "module": "Demo Standard",
+ "name": "Demo Start",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [
+  {
+   "role": "System Manager"
+  },
+  {
+   "role": "Demo Viewer"
+  },
+  {
+   "role": "Cashier"
+  }
+ ],
+ "sequence_id": 3.0,
+ "shortcuts": [],
+ "title": "Demo Start"
+}

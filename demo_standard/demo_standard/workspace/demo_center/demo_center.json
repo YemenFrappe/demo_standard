@@ -1,0 +1,253 @@
+{
+ "charts": [
+  {
+   "chart_name": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0639\u0645\u0644\u0627\u0621",
+   "label": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0639\u0645\u0644\u0627\u0621"
+  },
+  {
+   "chart_name": "\u0642\u064a\u0645\u0629 \u0627\u0644\u0645\u062e\u0632\u0648\u0646 \u062d\u0633\u0628 \u0627\u0644\u0645\u062e\u0632\u0646",
+   "label": "\u0642\u064a\u0645\u0629 \u0627\u0644\u0645\u062e\u0632\u0648\u0646 \u062d\u0633\u0628 \u0627\u0644\u0645\u062e\u0632\u0646"
+  }
+ ],
+ "content": "[{\"id\": \"\u0645\u0631\u0643\u0632-\u0627\u0644\u0639\u0631\u0636-header\", \"type\": \"header\", \"data\": {\"text\": \"<span class=\\\"h4\\\"><b>\u0645\u0631\u0643\u0632 \u0627\u0644\u0639\u0631\u0636</b></span><br><span class=\\\"small text-muted\\\">\u0627\u0644\u0648\u0635\u0648\u0644 \u0627\u0644\u0623\u0633\u0631\u0639 \u0644\u0623\u0647\u0645 \u0645\u0627 \u064a\u062d\u062a\u0627\u062c\u0647 \u0627\u0644\u0639\u0645\u064a\u0644 \u0623\u062b\u0646\u0627\u0621 \u0627\u0644\u0639\u0631\u0636 \u0627\u0644\u062d\u064a</span>\", \"col\": 12}}, {\"id\": \"\u0645\u0631\u0643\u0632-\u0627\u0644\u0639\u0631\u0636-chart-1\", \"type\": \"chart\", \"data\": {\"chart_name\": \"\u0623\u0641\u0636\u0644 \u0627\u0644\u0639\u0645\u0644\u0627\u0621\", \"col\": 6}}, {\"id\": \"\u0645\u0631\u0643\u0632-\u0627\u0644\u0639\u0631\u0636-chart-2\", \"type\": \"chart\", \"data\": {\"chart_name\": \"\u0642\u064a\u0645\u0629 \u0627\u0644\u0645\u062e\u0632\u0648\u0646 \u062d\u0633\u0628 \u0627\u0644\u0645\u062e\u0632\u0646\", \"col\": 6}}, {\"id\": \"\u0645\u0631\u0643\u0632-\u0627\u0644\u0639\u0631\u0636-metric-1\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"\u0635\u0627\u0641\u064a \u0627\u0644\u0645\u0628\u064a\u0639\u0627\u062a\", \"col\": 3}}, {\"id\": \"\u0645\u0631\u0643\u0632-\u0627\u0644\u0639\u0631\u0636-metric-2\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"\u0642\u064a\u0645\u0629 \u0627\u0644\u0645\u062e\u0632\u0648\u0646\", \"col\": 3}}, {\"id\": \"\u0645\u0631\u0643\u0632-\u0627\u0644\u0639\u0631\u0636-metric-3\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"\u0627\u0644\u0639\u0645\u0644\u0627\u0621 \u0627\u0644\u0646\u0634\u0637\u0648\u0646\", \"col\": 3}}, {\"id\": \"\u0645\u0631\u0643\u0632-\u0627\u0644\u0639\u0631\u0636-metric-4\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"\u0627\u0644\u0623\u0635\u0646\u0627\u0641 \u0627\u0644\u0646\u0634\u0637\u0629\", \"col\": 3}}, {\"id\": \"\u0645\u0631\u0643\u0632-\u0627\u0644\u0639\u0631\u0636-insight-spacer\", \"type\": \"spacer\", \"data\": {\"col\": 12}}, {\"id\": \"\u0645\u0631\u0643\u0632-\u0627\u0644\u0639\u0631\u0636-shortcut-1\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"POS Invoice\", \"col\": 2}}, {\"id\": \"\u0645\u0631\u0643\u0632-\u0627\u0644\u0639\u0631\u0636-shortcut-2\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Sales Invoice\", \"col\": 2}}, {\"id\": \"\u0645\u0631\u0643\u0632-\u0627\u0644\u0639\u0631\u0636-shortcut-3\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Payment Entry\", \"col\": 2}}, {\"id\": \"\u0645\u0631\u0643\u0632-\u0627\u0644\u0639\u0631\u0636-shortcut-4\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Stock Entry\", \"col\": 2}}, {\"id\": \"\u0645\u0631\u0643\u0632-\u0627\u0644\u0639\u0631\u0636-shortcut-5\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Purchase Order\", \"col\": 2}}, {\"id\": \"\u0645\u0631\u0643\u0632-\u0627\u0644\u0639\u0631\u0636-shortcut-6\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Employee\", \"col\": 2}}, {\"id\": \"\u0645\u0631\u0643\u0632-\u0627\u0644\u0639\u0631\u0636-shortcut-7\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Accounts Settings\", \"col\": 2}}, {\"id\": \"\u0645\u0631\u0643\u0632-\u0627\u0644\u0639\u0631\u0636-shortcut-8\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Stock Settings\", \"col\": 2}}, {\"id\": \"\u0645\u0631\u0643\u0632-\u0627\u0644\u0639\u0631\u0636-shortcut-9\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Selling Settings\", \"col\": 2}}, {\"id\": \"\u0645\u0631\u0643\u0632-\u0627\u0644\u0639\u0631\u0636-shortcut-10\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Buying Settings\", \"col\": 2}}, {\"id\": \"\u0645\u0631\u0643\u0632-\u0627\u0644\u0639\u0631\u0636-spacer\", \"type\": \"spacer\", \"data\": {\"col\": 12}}, {\"id\": \"\u0645\u0631\u0643\u0632-\u0627\u0644\u0639\u0631\u0636-card-1\", \"type\": \"card\", \"data\": {\"card_name\": \"Client Walkthrough\", \"col\": 4}}, {\"id\": \"\u0645\u0631\u0643\u0632-\u0627\u0644\u0639\u0631\u0636-card-2\", \"type\": \"card\", \"data\": {\"card_name\": \"Commercial Performance\", \"col\": 4}}, {\"id\": \"\u0645\u0631\u0643\u0632-\u0627\u0644\u0639\u0631\u0636-card-3\", \"type\": \"card\", \"data\": {\"card_name\": \"Operations Snapshot\", \"col\": 4}}]",
+ "creation": "2026-03-15 15:44:37.396342",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "hide_custom": 0,
+ "icon": "home",
+ "idx": 0,
+ "indicator_color": "green",
+ "is_hidden": 0,
+ "label": "Demo Center",
+ "links": [
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Client Walkthrough",
+   "link_count": 0,
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "POS Profile",
+   "link_count": 0,
+   "link_to": "POS Profile",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Customer",
+   "link_count": 0,
+   "link_to": "Customer",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Item",
+   "link_count": 0,
+   "link_to": "Item",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Warehouse",
+   "link_count": 0,
+   "link_to": "Warehouse",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Commercial Performance",
+   "link_count": 0,
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 1,
+   "label": "Sales Analytics",
+   "link_count": 0,
+   "link_to": "Sales Analytics",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 1,
+   "label": "Gross Profit",
+   "link_count": 0,
+   "link_to": "Gross Profit",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 1,
+   "label": "Stock Balance",
+   "link_count": 0,
+   "link_to": "Stock Balance",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 1,
+   "label": "Profit and Loss Statement",
+   "link_count": 0,
+   "link_to": "Profit and Loss Statement",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Operations Snapshot",
+   "link_count": 0,
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Branch",
+   "link_count": 0,
+   "link_to": "Branch",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Supplier",
+   "link_count": 0,
+   "link_to": "Supplier",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Payment Entry",
+   "link_count": 0,
+   "link_to": "Payment Entry",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  }
+ ],
+ "modified": "2026-05-25 09:35:48.090349",
+ "modified_by": "Administrator",
+ "module": "Demo Standard",
+ "name": "Demo Center",
+ "number_cards": [
+  {
+   "label": "\u0635\u0627\u0641\u064a \u0627\u0644\u0645\u0628\u064a\u0639\u0627\u062a",
+   "number_card_name": "\u0635\u0627\u0641\u064a \u0627\u0644\u0645\u0628\u064a\u0639\u0627\u062a"
+  },
+  {
+   "label": "\u0642\u064a\u0645\u0629 \u0627\u0644\u0645\u062e\u0632\u0648\u0646",
+   "number_card_name": "\u0642\u064a\u0645\u0629 \u0627\u0644\u0645\u062e\u0632\u0648\u0646"
+  },
+  {
+   "label": "\u0627\u0644\u0639\u0645\u0644\u0627\u0621 \u0627\u0644\u0646\u0634\u0637\u0648\u0646",
+   "number_card_name": "\u0627\u0644\u0639\u0645\u0644\u0627\u0621 \u0627\u0644\u0646\u0634\u0637\u0648\u0646"
+  },
+  {
+   "label": "\u0627\u0644\u0623\u0635\u0646\u0627\u0641 \u0627\u0644\u0646\u0634\u0637\u0629",
+   "number_card_name": "\u0627\u0644\u0623\u0635\u0646\u0627\u0641 \u0627\u0644\u0646\u0634\u0637\u0629"
+  }
+ ],
+ "owner": "Administrator",
+ "parent_page": "Demo Start",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 4.0,
+ "shortcuts": [
+  {
+   "doc_view": "",
+   "label": "POS Invoice",
+   "link_to": "POS Invoice",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Sales Invoice",
+   "link_to": "Sales Invoice",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Payment Entry",
+   "link_to": "Payment Entry",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Stock Entry",
+   "link_to": "Stock Entry",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Purchase Order",
+   "link_to": "Purchase Order",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Employee",
+   "link_to": "Employee",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Accounts Settings",
+   "link_to": "Accounts Settings",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Stock Settings",
+   "link_to": "Stock Settings",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Selling Settings",
+   "link_to": "Selling Settings",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Buying Settings",
+   "link_to": "Buying Settings",
+   "type": "DocType"
+  }
+ ],
+ "title": "Demo Center"
+}

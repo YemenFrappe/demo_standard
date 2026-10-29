@@ -1,0 +1,16 @@
+[project]
+name = "demo_standard"
+authors = [
+    { name = "Yemen Frappe", email = "support@yemenfrappe.com" }
+]
+description = "Reusable demo polish app for Arabic ERPNext sites"
+requires-python = ">=3.10"
+readme = "README.md"
+dynamic = ["version"]
+dependencies = []
+
+[build-system]
+requires = ["flit_core >=3.4,<4"]
+build-backend = "flit_core.buildapi"
+
+[tool.bench.dev-dependencies]
